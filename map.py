@@ -2,7 +2,7 @@ import requests
 import urllib.parse
 
 main_api= "https://www.mapquestapi.com/directions/v2/route?"
-key= "Yp2uC8GDy8sJNApg2YJL5ZlIKlXeNWQA"
+key= "wgqLErZmyU2IiSVTWmyCwDM0OjCxHTqf"
 
 while True:
     orig= input("Ciudad de Origen: ")
